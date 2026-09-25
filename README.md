@@ -48,7 +48,8 @@ Soy estudiante de **Ingeniería de Sistemas de noveno ciclo** en la Universidad 
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
       </p>
       <p align="center"><sub>Análisis de requerimientos · UML · REST API · Spring Security · JPA</sub></p>
-      <p align="center"><a href="URL_DE_TU_REPOSITORIO"><b>Ver repositorio →</b></a></p>
+      <p align="center"><a href="https://github.com/jeangh-droid/back-bolivar"><b>Ver repositorio back→</b></a></p>
+      <p align="center"><a href="https://github.com/jeangh-droid/front-bolivar"><b>Ver repositorio front→</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Plataforma de Recursos Humanos</h3>
@@ -71,7 +72,7 @@ Soy estudiante de **Ingeniería de Sistemas de noveno ciclo** en la Universidad 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </p>
       <p align="center"><sub>Componentes reutilizables · Responsive Design · Catálogo</sub></p>
-      <p align="center"><a href="URL_DE_TU_REPOSITORIO"><b>Ver repositorio →</b></a></p>
+      <p align="center"><a href="https://github.com/jeangh-droid/pageJs-react"><b>Ver repositorio →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Página Web para Licorería</h3>
@@ -82,7 +83,7 @@ Soy estudiante de **Ingeniería de Sistemas de noveno ciclo** en la Universidad 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </p>
       <p align="center"><sub>UI responsive · Componentes · Experiencia de usuario</sub></p>
-      <p align="center"><a href="URL_DE_TU_REPOSITORIO"><b>Ver repositorio →</b></a></p>
+      <p align="center"><a href="https://github.com/jeangh-droid/licoreria-project"><b>Ver repositorio →</b></a></p>
     </td>
   </tr>
 </table>
